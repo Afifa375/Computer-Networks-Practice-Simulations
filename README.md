@@ -13,7 +13,7 @@ Cisco Packet Tracer (v7.x or higher)
 PDF Reader
 
 
-#Key Topics Covered
+# Key Topics Covered
 
 Switching: VLANs, VTP, Spanning Tree Protocol, Port Security
 Routing: Static Routing, RIP, OSPF, EIGRP
